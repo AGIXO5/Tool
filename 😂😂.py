@@ -49,7 +49,7 @@ import uuid
 import random,json
 import json
 import time
-import datetime;now = datetime.date.today();target = datetime.date(2024,8,20)
+import datetime;now = datetime.date.today();target = datetime.date(2025,8,20)
 if now >=target:exit("وقفت الأدآة دخن لا ضوج 🗿🚬 راسلني حتى افعلها")
 import sys
 import subprocess
